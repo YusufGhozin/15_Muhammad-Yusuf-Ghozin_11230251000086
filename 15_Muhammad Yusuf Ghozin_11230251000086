@@ -1,0 +1,40 @@
+[
+  {
+    _id: ObjectId('676caf3f989112aff24eeb89'),
+    id: 43223235,
+    nama: 'Muhammad Yusuf Ghozin',
+    umur: 23
+  },
+  {
+    _id: ObjectId('676caf3f989112aff24eeb8a'),
+    id: 235532535,
+    nama: 'Muhammad Syahrul',
+    umur: 21
+  },
+  {
+    _id: ObjectId('676caf3f989112aff24eeb8b'),
+    id: 2342324,
+    nama: 'Fakhri Aiz',
+    umur: 23
+  }
+]
+[
+  {
+    _id: ObjectId('676caf3f989112aff24eeb89'),
+    id: 43223235,
+    nama: 'Muhammad Yusuf Ghozin',
+    umur: 23
+  },
+  {
+    _id: ObjectId('676caf3f989112aff24eeb8a'),
+    id: 235532535,
+    nama: 'Muhammad Syahrul',
+    umur: 21
+  },
+  {
+    _id: ObjectId('676caf3f989112aff24eeb8b'),
+    id: 2342324,
+    nama: 'Fakhri Aiz',
+    umur: 23
+  }
+]
